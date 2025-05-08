@@ -31,6 +31,10 @@ potential security flaws such as exposed endpoints, API keys, misconfigurations,
 
 ---
 
+## 🛠️ Installation:
+ - git clone: https://github.com/r05hl/Tools/blob/main/Web%20Scraper.py
+ - python3 Scraper.py
+
 ## 📦 Requirements
 
 - Python 3.6+
